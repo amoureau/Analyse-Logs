@@ -1,0 +1,2 @@
+S'il y a des ex aequo au niveau du nombre de hits, nous devons choisir qui afficher :
+Nous ferons donc ça en fonction de l'ordre chronologique, c'est à dire l'ordre dans lequel le site est arrivé dans le log.
